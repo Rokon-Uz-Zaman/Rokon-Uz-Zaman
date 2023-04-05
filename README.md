@@ -1,12 +1,11 @@
-### Hi there 👋, My name is Md. Al Shariar
-#### I am Professional Web Developer.
+### Hi there 👋, My name is A.B.M. Rokon-uz-zaman Roman
 
-I am skilled at Python Django framework (full stack), Java Spring Boot(Full Stack), web scraping with Python, HTML(PSD to html, responsive web page), CSS, Bootstrap, Vanilla JavaScript, jQuery, Java, C, C++, Version Controlling, Database ( MySQL, SQLite, PostgreSQL, Oracle) 
+
+I am skilled at computer vision , machine learing , deep learning , Python Django framework , C, C++, Version Controlling, Database ( MySQL, SQLite, ) 
 
 I have interested in web development, problem-solving, data science, machine learning, and artificial intelligence.
 
-Experience in Developing python Django web application, java desktop application and
-Android game using java.
+
 
 # Programming Languages:
 <p>
