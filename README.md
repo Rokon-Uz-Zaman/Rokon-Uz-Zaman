@@ -57,10 +57,3 @@ I have interested in web development, problem-solving, data science, machine lea
 ![Visitor Count](https://profile-counter.glitch.me/{Rokon-Uz-Zaman}/count.svg)
 
 <span style="color:red">**Happy coding!**</span>
-$\color{#a83e32}{your-text-here}$
-
-\- list-1
-
-\- list-2
-
-\- list-3
