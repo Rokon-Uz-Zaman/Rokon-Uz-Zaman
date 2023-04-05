@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is A.B.M. Rokon-uz-zaman Roman
 
 
-I am skilled at computer vision , machine learing , deep learning , Python Django framework , C, C++, Database ( MySQL, SQLite, ) 
+I am skilled at computer vision , machine learning , deep learning , Python, Python Django framework , Django REST framework , C, C++, Database ( MySQL, SQLite, ) 
 
-I have interested in web development, problem-solving, data science, machine learning, and artificial intelligence.
+I have interested in web development, data science, machine learning, and artificial intelligence.
 
 
 
