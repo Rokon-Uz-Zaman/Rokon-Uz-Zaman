@@ -3,7 +3,7 @@
 
 I am skilled at computer vision , machine learning , deep learning , Python, Python Django framework , Django REST framework , C, C++, Database ( MySQL, SQLite, ) 
 
-I have interested in machine learning, deep learning , computer vision and web development.
+I have interest in machine learning, deep learning , computer vision and web development.
 
 
 
